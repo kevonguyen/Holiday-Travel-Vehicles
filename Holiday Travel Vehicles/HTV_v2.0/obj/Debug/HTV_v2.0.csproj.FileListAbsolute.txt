@@ -1,0 +1,66 @@
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\ApplicationInsights.config
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\csc.exe
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\vbc.exe
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\VBCSCompiler.exe
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.dll.config
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.pdb
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Web.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.ApplicationInsights.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Web.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.ApplicationInsights.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.csprojResolveAssemblyReference.cache
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.dll
+c:\users\tyree pini\documents\visual studio 2015\Projects\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.pdb
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\ApplicationInsights.config
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\csc.exe
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\vbc.exe
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.dll.config
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\HTV_v2.0.pdb
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Web.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.Web.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.dll
+C:\Users\Kevin\Desktop\HTV_v2.0\HTV_v2.0\obj\Debug\HTV_v2.0.pdb
